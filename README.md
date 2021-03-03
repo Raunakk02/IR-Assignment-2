@@ -2,8 +2,8 @@
 
 <h3 align="center">Assignment 2</h3>
 
-Submitted By:
-Name: Raunak Kumar
+Submitted By:<br>
+Name: Raunak Kumar<br>
 Roll No: 2019BCS-045
 
 Problem statement:
