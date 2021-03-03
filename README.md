@@ -27,4 +27,3 @@ OUTPUT:
 
 Example:
 ![Screenshot](output.PNG)
-<img src="" alt="">
