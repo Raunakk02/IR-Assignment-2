@@ -26,4 +26,5 @@ OUTPUT:
     1. (numpy array) new coordinates
 
 Example:
+![Screenshot](output.PNG)
 <img src="" alt="">
